@@ -4,7 +4,7 @@ class StringOps
   end
 
   def to_lower(string)
-    string.downcase
+    string.downcas
   end
 
   def to_empty(string)
